@@ -8,7 +8,9 @@ The paper has been submitted and is available on the preprint website. The DOI o
 
 All authors of the paper are: Xin Wang, Jiaxing Wang, Zhaochen Zhang, Yu Meng, Yiran Dong, Xiang Wang, Qilin Xiao. All authors own the copyright and authorship of these data.
 
-ORCID of the first author Xin Wang: [https://orcid.org/0000-0002-4721-233X]
+ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X
+
+Corresponding author: Xin Wang(email:wangxin@huanye.ac.cn) and Yu Meng(email:myucrm@126.com)
 
 This Github account (ID: Kuart1ss) is owned by the first author Xin Wang.
 

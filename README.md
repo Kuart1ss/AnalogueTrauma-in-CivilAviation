@@ -4,7 +4,7 @@
 
 You can **only** access and use this data within the scope specified in the CC-BY-4.0 license. And your use of these data must meet the [World Medical Association Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/).
 
-The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: 10.31234/osf.io/zk6db.[https://osf.io/preprints/psyarxiv/zk6db]
+The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/zk6db](https://doi.org/10.31234/osf.io/zk6db).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/zk6db
 
 All authors of the paper are: Xin Wang, Jiaxing Wang, Zhaochen Zhang, Yu Meng, Yiran Dong, Xiang Wang, Qilin Xiao. All authors own the copyright and authorship of these data.
 

@@ -14,7 +14,7 @@ All authors of the paper are: Xin Wang, Xiang Wang, Yu Meng, Zhaochen Zhang, Yir
 
 ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X
 
-Corresponding author: Xin Wang(email:wangxin@huanye.ac.cn) and Yu Meng(email:myucrm@126.com)
+Corresponding author: Xin Wang(email:wxinlawyer@outlook.com) and Yu Meng(email:myucrm@126.com)
 
 This Github account (ID: Kuart1ss) is owned by the first author Xin Wang.
 

@@ -8,7 +8,7 @@ The paper has been submitted and is available on the preprint website. The DOI o
 
 You can see the IRB Review Approval Form for this study at the document _IRB Request Form of Human Factors Research of HuanYe Psychology Group Application_.
 
-You can view the informed consent information of the subjects in the 《知情同意书》, or view the English version in its corresponding English document _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation Informed Consent Form for Experimental Participants_. Please note **that the Chinese version of the informed consent form for experimental subjects shall prevail**.
+You can view the informed consent information of the subjects in the 《实验被试知情同意书》, or view the English version in its corresponding English document _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation Informed Consent Form for Experimental Participants_. Please note **that the Chinese version of the informed consent form for experimental subjects shall prevail**.
 
 All authors of the paper are: Xin Wang, Jiaxing Wang, Zhaochen Zhang, Yu Meng, Yiran Dong, Xiang Wang, Qilin Xiao. All authors own the copyright and authorship of these data.
 

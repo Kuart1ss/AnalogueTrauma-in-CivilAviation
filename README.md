@@ -6,6 +6,8 @@ You can **only** access and use this data within the scope specified in the CC-B
 
 The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/zk6db](https://doi.org/10.31234/osf.io/zk6db).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/zk6db
 
+You can see the IRB Review Approval Form for this study at the document _IRB Request Form of Human Factors Research of HuanYe Psychology Group Application_.
+
 All authors of the paper are: Xin Wang, Jiaxing Wang, Zhaochen Zhang, Yu Meng, Yiran Dong, Xiang Wang, Qilin Xiao. All authors own the copyright and authorship of these data.
 
 ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X

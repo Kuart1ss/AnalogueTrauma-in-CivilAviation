@@ -6,9 +6,9 @@ You can **only** access and use this data within the scope specified in the CC-B
 
 The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/zk6db](https://doi.org/10.31234/osf.io/zk6db).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/zk6db
 
-You can see the IRB Review Approval Form for this study at the document _IRB Request Form of Human Factors Research of HuanYe Psychology Group Application_.
+You can see the IRB Review Approval Form for this study at the document _IRB_Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation.pdf_.
 
-You can view the informed consent information of the subjects in the 《实验被试知情同意书》, or view the English version in its corresponding English document _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation Informed Consent Form for Experimental Participants_. Please note **that the Chinese version of the informed consent form for experimental subjects shall prevail**.
+You can view the informed consent information of the subjects in the 实验被试知情同意书.pdf, or view the English version in its corresponding English document _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation Informed Consent Form for Experimental Participants。pdf_. Please note **that the Chinese version of the informed consent form for experimental subjects shall prevail**.
 
 All authors of the paper are: Xin Wang, Xiang Wang, Yu Meng, Zhaochen Zhang, Yiran Dong, Jiaxing Wang, Qilin Xiao. All authors own the copyright and authorship of these data.
 

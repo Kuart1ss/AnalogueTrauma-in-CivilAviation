@@ -1,6 +1,6 @@
 # AnalogueTrauma-in-CivilAviation
 
-**This is all experimental data that has been anonymized from the study "Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation".**
+**This is all experimental data and information that has been anonymized from the study _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation_.**
 
 You can **only** access and use this data within the scope specified in the CC-BY-4.0 license. And your use of these data must meet the [World Medical Association Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/).
 

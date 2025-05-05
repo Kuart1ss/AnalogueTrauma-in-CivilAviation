@@ -2,7 +2,7 @@
 
 **This is all experimental data and information that has been anonymized from the study _Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation_.**
 
-You can **only** access and use this data within the scope specified in the CC-BY-4.0 license. And your use of these data must meet the [World Medical Association Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/).
+You can **only** access and use this data within the scope specified in the **CC-BY-4.0 license**. And your use of these data **must** meet the **[World Medical Association Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)**.
 
 The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/zk6db](https://doi.org/10.31234/osf.io/zk6db).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/zk6db
 

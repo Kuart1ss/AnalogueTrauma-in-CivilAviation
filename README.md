@@ -14,6 +14,8 @@ You can find the required registration information at [涉及人类被试的研�
 
 You can view the informed consent information of the subjects in the [实验被试知情同意书.pdf](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/blob/main/%E5%AE%9E%E9%AA%8C%E8%A2%AB%E8%AF%95%E7%9F%A5%E6%83%85%E5%90%8C%E6%84%8F%E4%B9%A6.pdf), or view the English version in its corresponding English document [_Establishment of a Material Database for PTSS Induced by Analogue Trauma Paradigm in the Field of Civil Aviation Informed Consent Form for Experimental Participants.pdf_](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/blob/main/Establishment%20of%20a%20Material%20Database%20for%20PTSS%20Induced%20by%20Analogue%20Trauma%20Paradigm%20in%20the%20Field%20of%20Civil%20Aviation%20Informed%20Consent%20Form%20for%20Experimental%20Participants.pdf). Please note **that the Chinese version of the informed consent form for experimental subjects shall prevail**.
 
+We have simultaneously disclosed the psychological state reports of the subjects six months after the conclusion of the study. These reports can be accessed at [Six_month_follow_up_data_after_the_conclusion_of_the_experiment](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/tree/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9D%9F%E5%90%8E6%E4%B8%AA%E6%9C%88%E7%9A%84%E8%BF%BD%E8%B8%AA%E6%95%B0%E6%8D%AE_Six_month_follow_up_data_after_the_conclusion_of_the_experiment).
+
 All authors of the paper are: **Xin Wang, Xiang Wang^, Yu Meng^, Zhaochen Zhang^, Yiran Dong, Jiaxing Wang, Qilin Xiao**. All authors own the copyright and authorship of these data.
 _^ Due to equal contributions, should be recognized as co-second author._
 

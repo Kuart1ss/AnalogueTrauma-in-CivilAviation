@@ -21,7 +21,7 @@ _^ Due to equal contributions, should be recognized as co-second author._
 
 ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X
 
-Corresponding author: Xin Wang(wxinlawyer@icloud.com) or (wxinlawyer@outlook.com) and Yu Meng(myucrm@126.com)
+Corresponding author: Yu Meng(myucrm@126.com)
 
 This Github account (ID: Kuart1ss) is owned by the first author Xin Wang.
 

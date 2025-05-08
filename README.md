@@ -16,10 +16,11 @@ You can view the informed consent information of the subjects in the [实验被�
 
 We have simultaneously disclosed the psychological state reports of the subjects six months after the conclusion of the study. These reports can be accessed at [Six_month_follow_up_data_after_the_conclusion_of_the_experiment](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/tree/main/%E5%AE%9E%E9%AA%8C%E7%BB%93%E6%9D%9F%E5%90%8E6%E4%B8%AA%E6%9C%88%E7%9A%84%E8%BF%BD%E8%B8%AA%E6%95%B0%E6%8D%AE_Six_month_follow_up_data_after_the_conclusion_of_the_experiment).
 
-All authors of the paper are: **Xin Wang, Xiang Wang^, Yu Meng^, Jiazhong Yang^, Zhaochen Zhang^, Yiran Dong, Jiaxing Wang, Qilin Xiao**. All authors own the copyright and authorship of these data.
+All authors of the paper are: **Xin Wang#, Yu Meng#, Xiang Wang^, Jiazhong Yang^, Zhaochen Zhang^, Yiran Dong, Jiaxing Wang, Qilin Xiao**. All authors own the copyright and authorship of these data.
+_# Due to equal contributions, should be recognized as co-first author._
 _^ Due to equal contributions, should be recognized as co-second author._
 
-**In this research, the authors Xin Wang, Xiang Wang, Yu Meng, Jiazhong Yang was supported by _The KeyLabora-tory of Flight Techniques and Flight Safety, Civil Aviation Administration of China_ (No.: FZ2021ZZ02).**
+**In this research, the authors Xin Wang, Yu Meng, Xiang Wang, Jiazhong Yang was supported by _The KeyLabora-tory of Flight Techniques and Flight Safety, Civil Aviation Administration of China_ (No.: FZ2021ZZ02).**
 
 ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X
 

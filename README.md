@@ -4,7 +4,7 @@
 
 You can **only** access and use this data within the scope specified in the **CC-BY-4.0 license**. And your use of these data **must** meet the **[World Medical Association Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/)**.
 
-The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/j2cdy_v4](https://doi.org/10.31234/osf.io/j2cdy_v4).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/j2cdy.
+The paper has been submitted and is available on the preprint website. The DOI of the paper on PsyArXiv is: [10.31234/osf.io/j2cdy_v5](https://doi.org/10.31234/osf.io/j2cdy_v5).The PsyArXiv website is: https://osf.io/preprints/psyarxiv/j2cdy.
 
 You can view the IRB charter at [幻夜心理集团研究伦理委员会章程.pdf](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/blob/main/%E5%B9%BB%E5%A4%9C%E5%BF%83%E7%90%86%E9%9B%86%E5%9B%A2%E7%A0%94%E7%A9%B6%E4%BC%A6%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%E7%AB%A0%E7%A8%8B.pdf) or the corresponding English version at [HuanYe Psychology Group Institutional Review Board (HYIRB) Statutes.pdf](https://github.com/Kuart1ss/AnalogueTrauma-in-CivilAviation/blob/main/HuanYe%20Psychology%20Group%20Institutional%20Review%20Board%20(HYIRB)%20Statutes.pdf). **Please note that the Chinese version is the authoritative text.**
 
@@ -24,7 +24,7 @@ All authors of the paper are: **Xin Wang#, Yu Meng#, Xiang Wang^, Jiazhong Yang^
 
 ORCID of the first author Xin Wang: https://orcid.org/0000-0002-4721-233X
 
-ORCID of the first author & Corresponding author:Yu Meng(myucrm@126.com), https://orcid.org/0009-0004-9763-0400
+ORCID of the first author & Corresponding author: Yu Meng(myucrm@126.com), https://orcid.org/0009-0004-9763-0400
 
 This Github account (ID: Kuart1ss) is owned by the first author Xin Wang.
 
